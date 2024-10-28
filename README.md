@@ -4,7 +4,7 @@
 
 ## 游戏理解
   1. 其中包括我对游戏核心机制和活动机制的理解，游玩过程中发现的bug和玩过这款游戏后我自己的感受。
-  2. 具体内容看：https://github.com/mute2000/Bingo-Voyage_test/blob/master/%E6%B8%B8%E6%88%8F%E7%90%86%E8%A7%A3.md。
+  2. 具体内容看：https://github.com/mute2000/Bingo-Voyage_test/blob/master/%E6%B8%B8%E6%88%8F%E7%90%86%E8%A7%A3.md
 
 ## 编写测试用例时用到的工具
   excel，Qase。
@@ -17,4 +17,4 @@
 
 ## 测试用例的编写，执行和测试报告
   - 登录模块的测试用例：
-  - 核心玩法的测试用例：https://app.qase.io/public/report/27495b633f6492cae082503209f9dc755e40ea87。
+  - 核心玩法的测试用例： https://app.qase.io/project/PT
