@@ -6,7 +6,7 @@
   1. 其中包括我对游戏核心机制和活动机制的理解，游玩过程中发现的bug和玩过这款游戏后我自己的感受。
   2. 具体内容看：https://github.com/mute2000/Bingo-Voyage_test/blob/master/%E6%B8%B8%E6%88%8F%E7%90%86%E8%A7%A3.md
 
-## 编写测试用例时用到的工具
+## 编写和执行测试用例时用到的工具
   excel，jmeter，Qase。
 
 ## 测试过程
