@@ -7,7 +7,7 @@
   2. 具体内容看：https://github.com/mute2000/Bingo-Voyage_test/blob/master/%E6%B8%B8%E6%88%8F%E7%90%86%E8%A7%A3.md
 
 ## 编写测试用例时用到的工具
-  excel，Qase。
+  excel，jmeter，Qase。
 
 ## 测试过程
   1. 进行需求分析。
