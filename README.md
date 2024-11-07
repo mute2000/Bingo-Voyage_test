@@ -16,5 +16,5 @@
   3. 记录执行测试用例中预期结果与实际结果不同的地方和bug并通过截图保留测试发现的问题。
 
 ## 测试用例的编写，执行和测试报告
-  - 登录模块的测试用例： https://app.qase.io/project/BVLT
-  - 核心玩法的测试用例： https://app.qase.io/project/PT
+  - 登录模块的测试用例： https://app.qase.io/public/report/52ad8eb5b1d47c9b887d45e5b37463b182e14f7c
+  - 核心玩法的测试用例： https://app.qase.io/public/report/27495b633f6492cae082503209f9dc755e40ea87
